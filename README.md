@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafymemon&label=Profile%20views&color=0e75b6&style=flat" alt="rafymemon" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics and Machine learning**
+- 🌱 I’m currently into **Full stack development**
 
-- 💬 Ask me about **Python, Html, CSS, JavaScript, Java and related issues**
+- 💬 Ask me about **Python, Html, CSS, JavaScript, Java, React and  related issues**
 
 - 📫 How to reach me **rafy.m.memon@gmail.com**
 

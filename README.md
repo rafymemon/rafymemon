@@ -24,3 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafymemon&show_icons=true&locale=en" alt="rafymemon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafymemon&" alt="rafymemon" /></p>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rafymemon/count.svg?"  />
+</div>
